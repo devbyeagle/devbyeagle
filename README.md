@@ -22,7 +22,7 @@ If you love my work and want to support me:
 Thanks for stopping by! Let’s build something awesome together! 🚀
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevByEagle&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevByEagle&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevByEagle&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devbyeagle&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbyeagle&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devbyeagle&theme=radical" alt="GitHub Profile Summary" />
 </div>
